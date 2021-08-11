@@ -24,20 +24,24 @@ p{
   margin-bottom :25px;
 }
 h2{
-  margin-right:40px;
-  padding:40px;
+  text-align: center;
+  padding-top: 16px;
+  padding-bottom: 19px;
+  word-spacing: 14px;
+  line-height: 40px;
+  font-size:26px;
 }
 #point{
   border: 2px solid rgb(231, 230, 230);
   padding: 2px;
-  padding-bottom: 15px;
+  padding-bottom: 20px;
 }
 ul {
   max-width: 550px;
   margin: 0 auto 50px auto;
   text-align: left;
   line-height: 1.6;
-  font-size:15px;
+  font-size:18px;
 }
 
 li {
@@ -47,10 +51,7 @@ li {
   width:500px;
   position:absolute;
   left:10px;
-  
-  
- color:black;padding:20px;margin: 20px 10px 20px 0px;
-  
+ color:black;padding:20px;margin: 20px 10px 20px 0px; 
 }
 @media (max-width: 460px){
   
