@@ -12,18 +12,25 @@ body{
 }
 
 header{
-  margin-top: 10px;
-  padding-top: 10px;
+  padding: 20px;
   font-size:22px;
+}
+p{
+  font-size: 17px;
 }
 #img-div{
  border:1px solid gray;
   padding:15px;
-  margin-bottom : 40px;
+  margin-bottom :25px;
 }
 h2{
   margin-right:40px;
   padding:40px;
+}
+#point{
+  border: 2px solid rgb(231, 230, 230);
+  padding: 2px;
+  padding-bottom: 15px;
 }
 ul {
   max-width: 550px;
@@ -31,11 +38,6 @@ ul {
   text-align: left;
   line-height: 1.6;
   font-size:15px;
-}
-#tribute-info{
-    margin: 10px;
-  padding : 10px;
-  text-align : center;
 }
 
 li {
@@ -71,6 +73,7 @@ li {
   p{
     font-size:15px;
   }
+  
   ul{
     max-width: 200px;
   }
@@ -80,17 +83,20 @@ li {
     padding: 5px;
     margin: 20px 1px;
   }
+  
   #tribute-info{
     margin: 10px;
     border: 2px solid rgb(236, 233, 233);
     text-align: center;
-    padding: 10px;
+    padding: 7px;
+    
   }
   #point{
     border: 2px solid rgb(231, 230, 230);
     padding: 1px;
 
-    font-size:20px ;
+    font-size:15px ;
+    padding-bottom: 10px;
   }
   #headline{
     width: 100%;
@@ -101,7 +107,7 @@ li {
     margin-bottom: 20px;
   }
   #title{
-    font-size: 27px;
+    font-size: 30px;
     padding: 5px;
   }
   figcaption{
